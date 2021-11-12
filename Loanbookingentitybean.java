@@ -8,6 +8,8 @@ import oracle.search.admin.api.ws.client.ObjectKey;
 import oracle.search.admin.api.ws.client.ObjectOutput;
 import oracle.search.admin.api.ws.client.ObjectInput;
 import oracle.search.admin.api.ws.client.collection;
+import oracle.search.admin.api.ws.client.inputprinter;
+
 
  
 import java.util.List;
